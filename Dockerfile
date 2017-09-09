@@ -6,6 +6,7 @@ RUN apk add --update \
         py3-cffi \
         libffi-dev \
         bash \
+        vim \
         curl \
         ca-certificates \
     && update-ca-certificates \
