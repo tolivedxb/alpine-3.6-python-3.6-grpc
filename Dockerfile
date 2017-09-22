@@ -4,6 +4,7 @@ RUN apk add --update \
         build-base \
         linux-headers \
         py3-cffi \
+        py3-cryptography \
         libffi-dev \
         bash \
         vim \
